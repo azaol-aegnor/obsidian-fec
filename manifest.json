@@ -1,0 +1,9 @@
+{
+	"id": "azaol-fe_customizer",
+	"name": "FileExplorer Customizer",
+	"version": "1.0.0",
+	"minAppVersion": "0.10.8",
+	"description": "Personalize the File Explorer on any device and make it your own!",
+	"author": "Azaol AEGNOR",
+	"isDesktopOnly": false
+}
